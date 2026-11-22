@@ -1,11 +1,5 @@
 # Advanced SQL Queries and Data Analysis
 
-Selamat datang di repositori Day 18 SQL Assignment!
-
-Repositori ini berisi hasil pengerjaan lima studi kasus SQL dari HackerRank sebagai bagian dari program Dibimbing Data Engineering Bootcamp.
-
-Materi yang dipelajari mencakup CTE, JOIN, CASE WHEN, fungsi agregasi, dan Window Functions untuk menyelesaikan berbagai permasalahan pengolahan dan analisis data.
-
 ## Objectives (Tujuan Pembelajaran)
 
 - Menerapkan CTE untuk memecah query kompleks menjadi beberapa langkah yang lebih terstruktur, mudah dipahami, dan diuji.
@@ -22,13 +16,13 @@ Materi yang dipelajari mencakup CTE, JOIN, CASE WHEN, fungsi agregasi, dan Windo
 
 ## Challenge List
 
-| No. | Challenge | Konsep Utama |
+| No. | Challenge |
 |---|---|---|
-| 01 | The Report | JOIN, CASE, CTE, ORDER BY |
-| 02 | Weather Observation Station 18 | Aggregate Functions, CTE, ABS |
-| 03 | Top Competitors | JOIN, GROUP BY, HAVING |
-| 04 | Ollivander's Inventory | JOIN, Window Functions, MIN |
-| 05 | Contest Leaderboard | CTE, MAX, SUM, GROUP BY |
+| 01 | The Report | 
+| 02 | Weather Observation Station 18 | 
+| 03 | Top Competitors | 
+| 04 | Ollivander's Inventory | 
+| 05 | Contest Leaderboard | 
 
 ## Repository Structure
 
@@ -38,10 +32,3 @@ Setiap folder challenge berisi:
 - `screenshots/query.png` — Dokumentasi screenshot query SQL.
 - `screenshots/output.png` — Dokumentasi hasil eksekusi query.
 
-## Learning Progress
-
-Repositori ini akan terus diperbarui seiring dengan penyelesaian latihan SQL lainnya dan peningkatan pemahaman terhadap konsep database.
-
----
-
-**Author:** Muhammad Dafi Fathurrahman
