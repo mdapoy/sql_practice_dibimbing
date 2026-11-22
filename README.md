@@ -34,7 +34,6 @@ Materi yang dipelajari mencakup CTE, JOIN, CASE WHEN, fungsi agregasi, dan Windo
 
 Setiap folder challenge berisi:
 
-- `README.md` — Penjelasan soal dan solusi yang digunakan.
 - `solution.sql` — Query SQL untuk menyelesaikan soal.
 - `screenshots/query.png` — Dokumentasi screenshot query SQL.
 - `screenshots/output.png` — Dokumentasi hasil eksekusi query.
