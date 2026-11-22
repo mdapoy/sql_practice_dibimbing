@@ -17,12 +17,12 @@
 ## Challenge List
 
 | No. | Challenge |
-|---|---|---|
-| 01 | The Report | 
-| 02 | Weather Observation Station 18 | 
-| 03 | Top Competitors | 
-| 04 | Ollivander's Inventory | 
-| 05 | Contest Leaderboard | 
+|:---:|---|
+| 01 | The Report |
+| 02 | Weather Observation Station 18 |
+| 03 | Top Competitors |
+| 04 | Ollivander's Inventory |
+| 05 | Contest Leaderboard |
 
 ## Repository Structure
 
