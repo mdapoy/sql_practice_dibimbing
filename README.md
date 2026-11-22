@@ -1,16 +1,18 @@
-# SQL Practice Portfolio
+# Advanced SQL Queries and Data Analysis
 
-Welcome to my SQL Practice Portfolio!
+Selamat datang di repositori Day 18 SQL Assignment!
 
-This repository contains my SQL practice exercises and solutions from HackerRank as part of my journey to becoming a Data Engineer.
+Repositori ini berisi hasil pengerjaan lima studi kasus SQL dari HackerRank sebagai bagian dari program Dibimbing Data Engineering Bootcamp.
 
-## Objectives
+Materi yang dipelajari mencakup CTE, JOIN, CASE WHEN, fungsi agregasi, dan Window Functions untuk menyelesaikan berbagai permasalahan pengolahan dan analisis data.
 
-- Improve SQL query writing skills.
-- Understand relational databases and table relationships.
-- Practice data retrieval, filtering, and aggregation.
-- Learn SQL joins, subqueries, and Common Table Expressions (CTEs).
-- Develop problem-solving skills using SQL.
+## Objectives (Tujuan Pembelajaran)
+
+- Menerapkan CTE untuk memecah query kompleks menjadi beberapa langkah yang lebih terstruktur, mudah dipahami, dan diuji.
+- Menggunakan CASE WHEN dan JOIN berdasarkan rentang nilai untuk menentukan kategori atau grade.
+- Melakukan agregasi data secara tunggal maupun bertingkat menggunakan MIN, MAX, COUNT, dan SUM, serta menerapkan format numerik yang sesuai.
+- Menerapkan Window Functions untuk memilih baris dengan nilai tertentu dalam setiap kelompok, seperti penggunaan `MIN() OVER (PARTITION BY ...)`.
+- Menulis query SQL yang mudah dibaca, memiliki urutan hasil yang konsisten, dan efisien sesuai dengan kebutuhan setiap soal.
 
 ## Tools & Technologies
 
@@ -20,7 +22,7 @@ This repository contains my SQL practice exercises and solutions from HackerRank
 
 ## Challenge List
 
-| No. | Challenge | Main Concepts |
+| No. | Challenge | Konsep Utama |
 |---|---|---|
 | 01 | The Report | JOIN, CASE, CTE, ORDER BY |
 | 02 | Weather Observation Station 18 | Aggregate Functions, CTE, ABS |
@@ -30,15 +32,16 @@ This repository contains my SQL practice exercises and solutions from HackerRank
 
 ## Repository Structure
 
-Each challenge folder contains:
-- `README.md` — Problem description and solution explanation.
-- `solution.sql` — SQL query solution.
-- `screenshots/query.png` — Query screenshot.
-- `screenshots/output.png` — Execution result screenshot.
+Setiap folder challenge berisi:
+
+- `README.md` — Penjelasan soal dan solusi yang digunakan.
+- `solution.sql` — Query SQL untuk menyelesaikan soal.
+- `screenshots/query.png` — Dokumentasi screenshot query SQL.
+- `screenshots/output.png` — Dokumentasi hasil eksekusi query.
 
 ## Learning Progress
 
-This repository will be updated as I complete more SQL exercises and improve my understanding of database concepts.
+Repositori ini akan terus diperbarui seiring dengan penyelesaian latihan SQL lainnya dan peningkatan pemahaman terhadap konsep database.
 
 ---
 
